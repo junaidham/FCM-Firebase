@@ -1,0 +1,3 @@
+
+rootProject.name = "Notification FCM"
+include ':app'

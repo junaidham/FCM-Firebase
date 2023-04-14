@@ -1,0 +1,6 @@
+Notification
+    https://developer.android.com/develop/ui/views/notifications#ApplyStyle
+
+Create a Custom Notification Layout, How to create a Custom Notification Layout in android?
+        https://developer.android.com/develop/ui/views/notifications/custom-notification#java
+        https://stackoverflow.com/questions/41888161/how-to-create-a-custom-notification-layout-in-android

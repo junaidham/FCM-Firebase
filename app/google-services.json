@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515868242506",
+    "project_id": "notification-demo-db4c7",
+    "storage_bucket": "notification-demo-db4c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515868242506:android:72f2aa48bcd9033f686cb3",
+        "android_client_info": {
+          "package_name": "com.induxapp.notificationfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515868242506-d1k4a3mbh2vm53gjh7jt5e21uce7k6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo7haxoWIw9Mag-HHymaMmvWP4VVhBnto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515868242506-d1k4a3mbh2vm53gjh7jt5e21uce7k6of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
